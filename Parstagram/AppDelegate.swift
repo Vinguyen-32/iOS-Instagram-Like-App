@@ -20,9 +20,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                     $0.clientKey = "JcQeW5DU1H2bg8Vu0NvJuFH2n4gGm1MyJQLjPDsN" // <- UPDATE
                     $0.server = "https://parseapi.back4app.com"
             }
-            Parse.initialize(with: parseConfig)
+        Parse.initialize(with: parseConfig)
+        
         return true
     }
+    
+    
 
     // MARK: UISceneSession Lifecycle
 
