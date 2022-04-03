@@ -39,4 +39,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/65844160/161408609-3704afd8-c547-40d0-a24a-cc4a2093337b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
